@@ -15,8 +15,10 @@ Sklearn:
 
 Draw figure ：
 
-- [Treemap - Echarts_option_query - Document (pyecharts.org)](https://gallery.pyecharts.org/#/Treemap/echarts_option_query)
+- Doc:[Treemap - Echarts_option_query - Document (pyecharts.org)](https://gallery.pyecharts.org/#/Treemap/echarts_option_query)
+- Examples：[Examples - Apache ECharts](https://echarts.apache.org/examples/en/index.html#chart-type-line)
 - [pyecharts/pyecharts: 🎨 Python Echarts Plotting Library (github.com)](https://github.com/pyecharts/pyecharts)
+- [Hiplot | Emerging biomedical data visualization toolkit (hiplot-academic.com)](https://hiplot-academic.com/)
 
 
 
@@ -44,9 +46,11 @@ SPSSAU：
 
 
 
-“地图无忧”网页：
+“地图”网页：
 
 [亿景智联 - 账号登录 (changjing.com.cn)](https://account.changjing.com.cn/login)
+
+[地图的创建-生命周期-示例中心-JS API 2.0 示例 | 高德地图API (amap.com)](https://developer.amap.com/demo/jsapi-v2/example/map-lifecycle/map-show)
 
 ## **文献查找网站**
 
@@ -80,4 +84,6 @@ SPSSAU：
 
 - - 飞常准大数据 [https://data.variflight.com/](https://link.zhihu.com/?target=https%3A//data.variflight.com/)
   - 中国民用航空网 [https://www.ccaonline.cn/](https://link.zhihu.com/?target=https%3A//www.ccaonline.cn/)
+
+
 
